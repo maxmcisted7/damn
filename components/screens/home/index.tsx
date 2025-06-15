@@ -10,7 +10,7 @@ export default function Home() {
       <FadeIn.Item>
         <div className="flex justify-between">
           <div>
-            <h1>Max McIsted</h1>
+            <h1>Max McIsted 🚀</h1>
             <h2>Designer working on brand systems in deep tech</h2>
           </div>
         </div>
